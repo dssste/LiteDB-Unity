@@ -1,5 +1,7 @@
 An Exact Copy of [LiteDB](https://github.com/mbdavid/LiteDB), plus a package.json file.
-Maybe there will be sample sences and Unity specific tests in the future.
+
+Maybe there will be sample scenes and Unity specific tests in the future.
+
 Currently 5.0.20. Should use a github action to snyc LiteDB releases in the future.
 
 ### Install
