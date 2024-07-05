@@ -1,0 +1,8 @@
+{
+  "name": "com.dss.litedb",
+  "version": "5.0.20",
+  "displayName": "LiteDB",
+  "description": "An Exact Fork of LiteDB to be used in unity",
+  "unity": "2020.3",
+  "dependencies": {}
+}
